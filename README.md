@@ -8,6 +8,7 @@ Property: excerpt
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
 
 Description: Excerpt from a work.
+
 ---
 
 Specific Property: articleExcerpt
@@ -15,6 +16,7 @@ Specific Property: articleExcerpt
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
 
 Description: Excerpt from an article.
+
 ---
 
 Specific Property: authorExcerpt
@@ -22,6 +24,7 @@ Specific Property: authorExcerpt
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
 
 Description: Excerpt by an author from a work.
+
 ---
 
 Specific Property: altExcerpt
@@ -29,6 +32,7 @@ Specific Property: altExcerpt
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
 
 Description: Alternative excerpt from a work.
+
 ---
 
 Specific Property: bookExcerpt
@@ -36,6 +40,7 @@ Specific Property: bookExcerpt
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
 
 Description: Excerpt from a book.
+
 ---
 
 Specific Property: codeExcerpt
@@ -43,6 +48,7 @@ Specific Property: codeExcerpt
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
 
 Description: Excerpt from a software application.
+
 ---
 
 Specific Property: dataExcerpt
@@ -50,6 +56,7 @@ Specific Property: dataExcerpt
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
 
 Description: Data excerpt from a work.
+
 ---
 
 Specific Property: usageExcerpt
