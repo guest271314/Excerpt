@@ -1,0 +1,234 @@
+{
+"Excerpt": {
+        "ancestors": [
+            {
+                "Thing":  [
+                        "url",
+                        "http://schema.org/Thing"
+                    ]
+            },
+            {
+                "reference": {
+                    "Schema.RDFS.org": [
+                        "url",
+                        "http://schema.rdfs.org/all.json"
+                    ]
+                }
+            },
+            {
+                "reference": {
+                    "The Type Hierarchy": [
+                        "url",
+                        "http://schema.org/docs/full.html"
+                    ]
+                }
+            }
+        ],
+        "comment": [
+            [
+                "Excerpt."
+            ],
+            {
+                "author": {
+                    "guest271314": [
+                        "url",
+                        "http://guest271314.com"
+                    ]
+                }
+            }
+        ],
+        "comment_plain": "Excerpt.",
+        "id": "Excerpt",
+        "label": "Excerpt",
+        "properties": [
+            {
+                "excerpt": {
+                    "type": [
+                        "text",
+                        "application",
+                        "audio",
+                        "image",
+                        "message",
+                        "model",
+                        "multipart",
+                        "video",
+                        "vnd",
+                        "x",
+                        "x-pkcs"
+                    ],
+                    "description": [
+                        "Excerpt."
+                    ]
+                }
+            }
+        ],
+        "specific_properties": [
+            {
+                "articleExcerpt": {
+                    "type": [
+                        "text",
+                        "application",
+                        "audio",
+                        "image",
+                        "message",
+                        "model",
+                        "multipart",
+                        "video",
+                        "vnd",
+                        "x",
+                        "x-pkcs"
+                    ],
+                    "description": [
+                        "Excerpt from an article."
+                    ]
+                }
+            },
+            {
+                "authorExcerpt": {
+                    "type": [
+                        "text",
+                        "application",
+                        "audio",
+                        "image",
+                        "message",
+                        "model",
+                        "multipart",
+                        "video",
+                        "vnd",
+                        "x",
+                        "x-pkcs"
+                    ],
+                    "description": [
+                        "Excerpt by an author from a work."
+                    ]
+                }
+            },
+            {
+                "altExcerpt": {
+                    "type": [
+                        "text",
+                        "application",
+                        "audio",
+                        "image",
+                        "message",
+                        "model",
+                        "multipart",
+                        "video",
+                        "vnd",
+                        "x",
+                        "x-pkcs"
+                    ],
+                    "description": [
+                        "Alternative excerpt from a work."
+                    ]
+                }
+            },
+            {
+                "bookExcerpt": {
+                    "type": [
+                        "text",
+                        "application",
+                        "audio",
+                        "image",
+                        "message",
+                        "model",
+                        "multipart",
+                        "video",
+                        "vnd",
+                        "x",
+                        "x-pkcs"
+                    ],
+                    "description": [
+                        "Excerpt from a book."
+                    ]
+                }
+            },
+            {
+                "codeExcerpt": {
+                    "type": [
+                        "text",
+                        "application",
+                        "audio",
+                        "image",
+                        "message",
+                        "model",
+                        "multipart",
+                        "video",
+                        "vnd",
+                        "x",
+                        "x-pkcs"
+                    ],
+                    "description": [
+                        "Excerpt from a software application."
+                    ]
+                }
+            },
+            {
+                "dataExcerpt": {
+                    "type": [
+                        "text",
+                        "application",
+                        "audio",
+                        "image",
+                        "message",
+                        "model",
+                        "multipart",
+                        "video",
+                        "vnd",
+                        "x",
+                        "x-pkcs"
+                    ],
+                    "description": [
+                        "Data excerpt from a work."
+                    ]
+                }
+            },
+            {
+                "usageExcerpt": {
+                    "type": [
+                        "text",
+                        "application",
+                        "audio",
+                        "image",
+                        "message",
+                        "model",
+                        "multipart",
+                        "video",
+                        "vnd",
+                        "x",
+                        "x-pkcs"
+                    ],
+                    "description": [
+                        "Usage excerpt about a work."
+                    ]
+                }
+            }
+        ],
+        "subtypes": [],
+        "supertypes": [
+            {
+                "Thing":  [
+                        "url",
+                        "http://schema.org/Thing"
+                    ]
+            },
+            {
+                "reference": {
+                    "Schema.RDFS.org": [
+                        "url",
+                        "http://schema.rdfs.org/all.json"
+                    ]
+                }
+            },
+            {
+                "reference": {
+                    "The Type Hierarchy": [
+                        "url",
+                        "http://schema.org/docs/full.html"
+                    ]
+                }
+            }
+        ],
+        "url": "http://guest271314.com/data/html/microdata/vocabulary/extend/Excerpt.html"
+    }
+}
