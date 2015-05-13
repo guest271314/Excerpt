@@ -4,27 +4,19 @@ Extend HTML5 Microdata Vocabulary : Excerpt
 Excerpt
 
 Property: excerpt
-
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
-
 Description: Excerpt from a work.
 
 Specific Property: articleExcerpt
-
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
-
 Description: Excerpt from an article.
 
 Specific Property: authorExcerpt
-
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
-
 Description: Excerpt by an author from a work.
 
 Specific Property: altExcerpt
-
 Expected Type: Text;Application;Audio;Image;Message;Model;Multipart;Video;VND;X;X-PKCS
-
 Description: Alternative excerpt from a work.
 
 Specific Property: bookExcerpt
